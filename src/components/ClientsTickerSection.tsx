@@ -4,7 +4,7 @@ import React from 'react';
 const ClientsTickerSection = () => {
   const clientLogos = [
     {
-      src: "public/lovable-uploads/LG.png",
+      src: "/lovable-uploads/LG.png",
       alt: "LG Logo"
     },
     {
@@ -16,39 +16,39 @@ const ClientsTickerSection = () => {
       alt: "Alsvior Global Logo"
     },
     {
-      src: "public/lovable-uploads/ADIB U.png",
+      src: "/lovable-uploads/ADIB U.png",
       alt: "ADIB Logo"
     },
     {
-      src: "public/lovable-uploads/Johnson Controls.png",
+      src: "/lovable-uploads/Johnson Controls.png",
       alt: "Johnson Controls Logo"
     },
     {
-      src: "public/lovable-uploads/Trane.png",
+      src: "/lovable-uploads/Trane.png",
       alt: "Trane Logo"
     },
     {
-      src: "public/lovable-uploads/Wade Adams.png",
+      src: "/lovable-uploads/Wade Adams.png",
       alt: "Wade Adams Logo"
     },
     {
-      src: "public/lovable-uploads/icon.png",
+      src: "/lovable-uploads/icon.png",
       alt: "Brayton Global Logo"
     },
     {
-      src: "public/lovable-uploads/Al-Dobowi-logo-small-16Oct18.png",
+      src: "/lovable-uploads/Al-Dobowi-logo-small-16Oct18.png",
       alt: "Al Dobowi Logo"
     },
     {
-      src: "public/lovable-uploads/Etisalat.jpeg",
+      src: "/lovable-uploads/Etisalat.jpeg",
       alt: "Etisalat Logo"
     },
     {
-      src: "public/lovable-uploads/Zayed Sports City.png",
+      src: "/lovable-uploads/Zayed Sports City.png",
       alt: "Zayed Sports City Logo"
     },
     {
-      src: "public/lovable-uploads/logo.png",
+      src: "/lovable-uploads/logo.png",
       alt: "CBT Logo"
     },
   ];
