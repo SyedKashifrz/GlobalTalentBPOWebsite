@@ -4,7 +4,7 @@ import React from 'react';
 const ClientsTickerSection = () => {
   const clientLogos = [
     {
-      src: "/lovable-uploads/LG.png",
+      src: "public/lovable-uploads/LG.png",
       alt: "LG Logo"
     },
     {
