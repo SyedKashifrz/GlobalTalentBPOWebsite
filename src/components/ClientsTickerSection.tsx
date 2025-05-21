@@ -4,15 +4,15 @@ import React from 'react';
 const ClientsTickerSection = () => {
   const clientLogos = [
     {
-      src: "public/lovable-uploads/LG.png",
+      src: "/lovable-uploads/LG.png",
       alt: "LG Logo"
     },
     {
-      src: "public/lovable-uploads/Siemens.png",
+      src: "/lovable-uploads/Siemens.png",
       alt: "Siemens Logo"
     },
     {
-      src: "public/lovable-uploads/AlsviorGlobal_OfficialLogo_Horizontal_NoBG-300x75.png",
+      src: "/lovable-uploads/AlsviorGlobal_OfficialLogo_Horizontal_NoBG-300x75.png",
       alt: "Alsvior Global Logo"
     },
     {
